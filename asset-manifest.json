@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dr-m-gf-count-down/static/css/main.2fb22e2e.css",
+    "main.js": "/dr-m-gf-count-down/static/js/main.ce9693cc.js",
+    "static/js/453.8db9a75e.chunk.js": "/dr-m-gf-count-down/static/js/453.8db9a75e.chunk.js",
+    "index.html": "/dr-m-gf-count-down/index.html",
+    "main.2fb22e2e.css.map": "/dr-m-gf-count-down/static/css/main.2fb22e2e.css.map",
+    "main.ce9693cc.js.map": "/dr-m-gf-count-down/static/js/main.ce9693cc.js.map",
+    "453.8db9a75e.chunk.js.map": "/dr-m-gf-count-down/static/js/453.8db9a75e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb22e2e.css",
+    "static/js/main.ce9693cc.js"
+  ]
+}
